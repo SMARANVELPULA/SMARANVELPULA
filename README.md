@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+%F0%9F%91%8B+I'm+Velpula+Smaran;AI+%7C+Data+Science+%7C+ML+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=A8DADC&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+%F0%9F%91%8B+I'm+Velpula+Smaran;AI+%7C+Data+Science+%7C+ML+Engineer)](https://git.io/typing-svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Velpula%20Smaran&fontSize=48&fontColor=fff&fontAlignY=65&animation=twinkling&desc=AI%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20ML%20%E2%80%A2%20Analytics&descAlignY=85&descSize=16" width="100%"/>
 
 <br/>
 
 <!-- Status badges -->
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00f5d4?style=for-the-badge&logo=statuspage&logoColor=black)
-![Location](https://img.shields.io/badge/📍-Hyderabad%2C%20India-7b2fff?style=for-the-badge)
-![GPA](https://img.shields.io/badge/⭐%20GPA-8.65%20%2F%2010-ffd60a?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-E0FBFC?style=for-the-badge&logo=statuspage&logoColor=1A1A2E)
+![Location](https://img.shields.io/badge/%F0%9F%93%8D-Hyderabad%2C%20India-C7F2FF?style=for-the-badge&logoColor=1A1A2E)
+![GPA](https://img.shields.io/badge/%E2%AD%90%20GPA-8.65%20%2F%2010-FFF9C4?style=for-the-badge&logoColor=1A1A2E)
 
 </div>
 
@@ -67,29 +67,41 @@ class VelpulaSmaran:
 
 **Languages & Analytics**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,postgresql" />
+<img src="https://skillicons.dev/icons?i=pandas" title="Pandas"/>
+
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+<br/>
+
+**Languages & Analytics**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 **Machine Learning & AI**
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AD3?style=flat-square&logo=xgboost&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00f5d4?style=flat-square&logoColor=black)
-![SHAP](https://img.shields.io/badge/SHAP-Explainable%20AI-7b2fff?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-189AD3?style=flat-square&logo=xgboost&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/-Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-A8DADC?style=flat-square&logoColor=1A1A2E)
+![SHAP](https://img.shields.io/badge/-SHAP%20%7C%20Explainable%20AI-B8C0FF?style=flat-square)
 
 **Development**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-ff6b35?style=flat-square)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/-REST%20APIs-E9C46A?style=flat-square&logoColor=1A1A2E)
 
 </div>
 
@@ -155,12 +167,28 @@ class VelpulaSmaran:
 
 ---
 
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-smaran6762%40gmail.com-00f5d4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smaran6762@gmail.com)
-![Open To Work](https://img.shields.io/badge/🎯_Open_To-Data%20Analytics%20%7C%20Data%20Science%20%7C%20AI%2FML%20%7C%20Prompt%20Engineering-7b2fff?style=for-the-badge)
+<table>
+  <tr>
+    <td align="center" width="200">
+      <a href="mailto:smaran6762@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-smaran6762-D62828?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+![Open To Work](https://img.shields.io/badge/🎯%20Open%20To-Data%20Analytics-A8DADC?style=for-the-badge&logoColor=1A1A2E)
+![](https://img.shields.io/badge/-Data%20Science-B8C0FF?style=for-the-badge&logoColor=1A1A2E)
+![](https://img.shields.io/badge/-AI%20%2F%20ML-FFF9C4?style=for-the-badge&logoColor=1A1A2E)
+![](https://img.shields.io/badge/-Prompt%20Engineering-C7F2FF?style=for-the-badge&logoColor=1A1A2E)
 
 </div>
 

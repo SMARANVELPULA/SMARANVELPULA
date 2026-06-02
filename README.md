@@ -61,47 +61,36 @@ class VelpulaSmaran:
 
 ---
 
+
 ## 🧠 Tech Stack
 
 <div align="center">
 
 **Languages & Analytics**
 
-<img src="https://skillicons.dev/icons?i=python,postgresql" />
-<img src="https://skillicons.dev/icons?i=pandas" title="Pandas"/>
-
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-
-<br/>
-
-**Languages & Analytics**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 **Machine Learning & AI**
 
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-189AD3?style=flat-square&logo=xgboost&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/-Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-A8DADC?style=flat-square&logoColor=1A1A2E)
-![SHAP](https://img.shields.io/badge/-SHAP%20%7C%20Explainable%20AI-B8C0FF?style=flat-square)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189AD3?style=flat-square&logo=xgboost&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00f5d4?style=flat-square&logoColor=black)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable%20AI-7b2fff?style=flat-square)
 
 **Development**
 
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/-FastAPI-005571?style=flat-square&logo=fastapi)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20APIs-E9C46A?style=flat-square&logoColor=1A1A2E)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-ff6b35?style=flat-square)
 
 </div>
 
